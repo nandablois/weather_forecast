@@ -1,3 +1,18 @@
+## Aplicativo web desenvolvido com Next.js e Material UI que consome a API do OpenWeather para exibir a previsão do tempo atual e para os próximos 5 dias, de acordo com a cidade pesquisada.
+
+.
+.
+##  Tecnologias Utilizadas
+
+- **Next.js** – Framework React com renderização server/client-side
+- **React** – Biblioteca JavaScript para criação de interfaces
+- **TypeScript** – Superset do JavaScript com tipagem estática
+- **Material UI (MUI)** – Componentes prontos e responsivos
+- **Axios** – Requisições HTTP simples e performáticas
+- **OpenWeather API** – Fornece dados climáticos em tempo real
+
+----------
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
